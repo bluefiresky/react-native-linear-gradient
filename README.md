@@ -1,3 +1,5 @@
+# Fork the project to resolve the problem about compiling in the React-Native　0.40.0
+
 # react-native-linear-gradient
 
 A `<LinearGradient>` component for react-native, as seen in
